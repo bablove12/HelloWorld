@@ -10,6 +10,7 @@ public class Variable {
 		count= 20;
 		
 		System.out.println(count);
+		System.out.println("Hello");
 
 	}
 
